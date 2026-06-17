@@ -1,5 +1,5 @@
 # 115_Project_Group1-5\
-輸出成果PPT
+輸出成果PPT\
 [c.pptx](https://github.com/user-attachments/files/29039635/c.pptx)\
 [b.pptx](https://github.com/user-attachments/files/29039633/b.pptx)\
 [a.pptx](https://github.com/user-attachments/files/29039627/a.pptx)\
@@ -9,4 +9,4 @@
 [1.pptx](https://github.com/user-attachments/files/29039583/1.pptx)\
 [TWSE_113_Concise_Financial_Report.pptx](https://github.com/user-attachments/files/29039701/TWSE_113_Concise_Financial_Report.pptx)\
 [Smart_Presentation_With_Visuals.pptx](https://github.com/user-attachments/files/29039692/Smart_Presentation_With_Visuals.pptx)\
-[Smart_Presentation_With_Visuals.pptx](https://github.com/user-attachments/files/29039724/Smart_Presentation_With_Visuals.pptx)\
+[Smart_Presentation_With_Visuals.pptx](https://github.com/user-attachments/files/29039724/Smart_Presentation_With_Visuals.pptx)
